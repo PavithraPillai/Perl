@@ -1,5 +1,5 @@
 INSTALLATION:
-Install the 64 bit strawberry PERL for windods 10 system
+Install the 64 bit strawberry PERL for windows 10 system
 
 LEARNING:
 Visit: https://learn.perl.org/
